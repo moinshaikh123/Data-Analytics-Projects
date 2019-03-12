@@ -1,0 +1,21 @@
+Reference : ENERGY data with 769 observations.
+
+
+Data description is given below.
+
+X1 : Relative Compactness 
+X2 : Surface Area 
+X3 : Wall Area 
+X4 : Roof Area 
+X5 : Overall Height 
+X6 : Orientation 
+X7 : Glazing Area 
+X8 : Glazing Area Distribution 
+y1 : Heating Load 
+y2 : Cooling Load
+
+a.       Create 50 random samples each of size 30 from the given database.
+
+b.      Verify whether the population follows normal distribution or not.
+
+c.       How you can tell about the population mean from the sampling distribution.

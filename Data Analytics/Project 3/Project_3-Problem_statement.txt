@@ -1,0 +1,9 @@
+Regression analysis
+
+Reference: MACHINE dataset.
+
+ 
+
+a.       Find if PRP and ERP are linearly or non-linearly related. To test the non-linearity, you should check up degree 3.
+
+b.      In each case, also calculate R2, the measure of “Quality of Fit”.
